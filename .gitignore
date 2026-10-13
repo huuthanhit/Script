@@ -1,0 +1,13 @@
+# Local settings and secrets
+.env
+.env.*
+!.env.example
+*.pfx
+*.p12
+*.key
+*.pem
+secrets.json
+**/bin/
+**/obj/
+.vs/
+.idea/
