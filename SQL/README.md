@@ -1,7 +1,7 @@
 # SQL
 
-PostgreSQL, SQL queries and functions
+PostgreSQL, Functions, Queries
 
-## Danh má»¥c
+## Danh mục
 
-- Bá»• sung liÃªn káº¿t tá»›i cÃ¡c script táº¡i Ä‘Ã¢y.
+- Bổ sung liên kết tới các script tại đây.

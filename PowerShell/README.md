@@ -1,7 +1,7 @@
 # PowerShell
 
-Windows automation and administration
+Automation, Software, User, Network
 
-## Danh má»¥c
+## Danh mục
 
-- Bá»• sung liÃªn káº¿t tá»›i cÃ¡c script táº¡i Ä‘Ã¢y.
+- Bổ sung liên kết tới các script tại đây.

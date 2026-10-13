@@ -1,7 +1,7 @@
 # Linux
 
-Ubuntu, Nginx, systemd and SMB mounts
+Ubuntu, Nginx, systemd, SMB Mount
 
-## Danh má»¥c
+## Danh mục
 
-- Bá»• sung liÃªn káº¿t tá»›i cÃ¡c script táº¡i Ä‘Ã¢y.
+- Bổ sung liên kết tới các script tại đây.

@@ -1,7 +1,7 @@
 # Network
 
-FortiGate, DNS, VPN and SD-WAN
+FortiGate, DNS, VPN, SD-WAN
 
-## Danh má»¥c
+## Danh mục
 
-- Bá»• sung liÃªn káº¿t tá»›i cÃ¡c script táº¡i Ä‘Ã¢y.
+- Bổ sung liên kết tới các script tại đây.
