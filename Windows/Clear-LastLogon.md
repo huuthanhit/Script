@@ -1,16 +1,29 @@
 # Clear Last Logon
 
-**Ná»n táº£ng:** Windows 10/11  
-**YÃªu cáº§u:** CMD cháº¡y báº±ng Administrator
+**Nền tảng:** Windows 10/11  
+**Yêu cầu:** Mở CMD hoặc chạy tệp BAT bằng quyền Administrator.
 
-XÃ³a ba giÃ¡ trá»‹ hiá»ƒn thá»‹ ngÆ°á»i Ä‘Äƒng nháº­p gáº§n nháº¥t trong `LogonUI`. KhÃ´ng xÃ³a tÃ i khoáº£n hoáº·c lá»‹ch sá»­ Ä‘Äƒng nháº­p trong Event Log.
+## Mục đích
 
-## Cháº¡y
+Xóa ba giá trị Registry dùng hiển thị người đăng nhập gần nhất trên màn hình logon:
 
-```bat
-Clear-LastLogon.bat
-```
+- `LastLoggedOnUser`
+- `LastLoggedOnSAMUser`
+- `LastLoggedOnDisplayName`
 
-[Má»Ÿ script](Clear-LastLogon.bat)
+Thao tác này **không xóa tài khoản Windows** và không xóa lịch sử đăng nhập trong Event Log.
 
-> LÆ°u Ã½: Thao tÃ¡c sá»­a Registry cÃ³ thá»ƒ bá»‹ ghi Ä‘Ã¨ bá»Ÿi chÃ­nh sÃ¡ch hoáº·c láº§n Ä‘Äƒng nháº­p tiáº¿p theo. Kiá»ƒm thá»­ trÆ°á»›c trÃªn mÃ¡y thá»­ nghiá»‡m.
+## Cách chạy
+
+1. Đọc nội dung script trước khi chạy.
+2. Mở terminal bằng quyền Administrator.
+3. Chạy [Clear-LastLogon.bat](Clear-LastLogon.bat).
+4. Kiểm tra màn hình đăng nhập sau khi thực hiện.
+
+## Lưu ý
+
+- Chính sách hệ thống hoặc lần đăng nhập tiếp theo có thể ghi lại các giá trị này.
+- Thử nghiệm trên máy kiểm tra trước khi triển khai diện rộng.
+- Script sửa Registry; chỉ chạy khi đã hiểu tác động và được phép quản trị máy.
+
+[← Về danh mục Windows](README.md) · [← Về trang mục lục sổ tay](../README.md)
