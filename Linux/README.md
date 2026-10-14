@@ -4,7 +4,7 @@ Sổ tay vận hành Linux/Ubuntu Server: dịch vụ, web server, lưu trữ m�
 
 ## Danh mục
 
-- [Sổ tay quản trị Ubuntu — WebASS-MN](../docs/WebASS-MN-Ubuntu-Notes.md) — Nginx, HTTPS/SSL, SMB/CIFS, mount tự động, systemd và lưu ý cấu hình .NET.
+- [Sổ tay quản trị Ubuntu — WebASS-MN](../WebASS-MN_Ubuntu_Notes%20(1).md) — Nginx, HTTPS/SSL, SMB/CIFS, mount tự động, systemd và lưu ý cấu hình .NET.
 - Các lệnh kiểm tra dịch vụ, cổng mạng, mount và cấu hình hệ thống.
 
 ## Khi bổ sung ghi chú
