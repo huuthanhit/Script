@@ -18,24 +18,17 @@
 
 ```text
 Script/
-├── CSharp/
-│   └── README.md
-├── Linux/
-│   └── README.md
-├── Network/
-│   └── README.md
-├── PowerShell/
-│   └── README.md
-├── SQL/
-│   └── README.md
-├── Tools/
-│   └── README.md
+├── CSharp/README.md
+├── Linux/README.md
+├── Network/README.md
+├── PowerShell/README.md
+├── SQL/README.md
+├── Tools/README.md
 ├── Windows/
 │   ├── Clear-LastLogon.bat
 │   ├── Clear-LastLogon.md
 │   └── README.md
-├── docs/
-│   └── WebASS-MN-Ubuntu-Notes.md
+├── WebASS-MN_Ubuntu_Notes (1).md
 └── README.md
 ```
 
@@ -43,7 +36,7 @@ Script/
 
 ### Linux / Ubuntu
 
-- [Sổ tay quản trị Ubuntu — WebASS-MN](docs/WebASS-MN-Ubuntu-Notes.md) — ghi chú Nginx, HTTPS/SSL, SMB/CIFS, `/etc/fstab`, systemd và cấu hình ứng dụng .NET.
+- [Sổ tay quản trị Ubuntu — WebASS-MN](WebASS-MN_Ubuntu_Notes%20(1).md) — ghi chú Nginx, HTTPS/SSL, SMB/CIFS, `/etc/fstab`, systemd và cấu hình ứng dụng .NET.
 - [Danh mục Linux](Linux/README.md) — lối vào các ghi chú và lệnh quản trị Linux.
 
 ### Windows
